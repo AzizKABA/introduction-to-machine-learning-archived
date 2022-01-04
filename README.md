@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="logo.png">
-</div>
 
-# Welcome to our Introduction to Machine Learning Course Repo!
+
+# Introduction to Machine Learning Course
 
 ## Syllabus
 
@@ -23,5 +21,7 @@
 
 ### Lesson 5
 - [Unsupervised Learning](https://github.com/globalaihub/introduction-to-machine-learning/tree/main/Unsupervised%20Learning)
+
+
 
 Reference: Global AI Hub
